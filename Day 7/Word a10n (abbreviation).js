@@ -49,7 +49,6 @@ function abbreviate(str){
 
 
 console.log(abbreviate("elephants are very big animals."))
-console.lo
 
 
 
